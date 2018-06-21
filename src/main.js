@@ -31,6 +31,7 @@ function dataCohorts () {
   }
 }
 
+/*
 const btnlista = document.getElementById('btnlista');
 const container = document.getElementById('root');
 const usersJSON = '../data/cohorts/lim-2018-03-pre-core-pw/users.json';
@@ -51,6 +52,7 @@ const renderUsers = data => {
     return render;
   })
 }
+*/
 /*
 function loadAllData () {
 // Concadena las url para enviar a la api 
